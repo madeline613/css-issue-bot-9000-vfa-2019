@@ -15,6 +15,7 @@ h2 {
 
 .completed {
   font-family: Arial, Sans-Serif, Monospace;
+  font-size: 12px;
 }
 
 #tasks .completed {
